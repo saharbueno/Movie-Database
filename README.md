@@ -11,9 +11,30 @@
 A simple movie database where the user can add, delete, search for, and view all added movies. This was created using mainly PHP and SQL.
 
 ## Visual Example
-<img width="544" alt="Screenshot 2024-01-03 at 9 22 30 PM" src="https://github.com/saharbueno/Movie-Database/assets/69322388/0fb1f681-b850-40d7-8dfb-a5c2901fffda">
-<img width="558" alt="Screenshot 2024-01-03 at 9 23 21 PM" src="https://github.com/saharbueno/Movie-Database/assets/69322388/2801c1fc-43ef-4a11-a77a-52441a31da1c">
-<img width="440" alt="Screenshot 2024-01-03 at 9 23 33 PM" src="https://github.com/saharbueno/Movie-Database/assets/69322388/20e3dc82-732d-4197-b559-512e4868b860">
+
+<p align="center">
+  <img width="544" alt="Screenshot 2024-01-03 at 9 22 30 PM" src="https://github.com/saharbueno/Movie-Database/assets/69322388/0fb1f681-b850-40d7-8dfb-a5c2901fffda">
+</p>
+
+<p align="center">
+  <i>Landing page</i>
+</p>
+
+<p align="center">
+  <img width="558" alt="Screenshot 2024-01-03 at 9 23 21 PM" src="https://github.com/saharbueno/Movie-Database/assets/69322388/2801c1fc-43ef-4a11-a77a-52441a31da1c">
+</p>
+
+<p align="center">
+  <i>Viewing added movies</i>
+</p>
+
+<p align="center">
+  <img width="440" alt="Screenshot 2024-01-03 at 9 23 33 PM" src="https://github.com/saharbueno/Movie-Database/assets/69322388/20e3dc82-732d-4197-b559-512e4868b860">
+</p>
+
+<p align="center">
+  <i>Searching for a movie</i>
+</p>
 
 ## Takeaways
 
